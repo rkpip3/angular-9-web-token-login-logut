@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "autointelliFrontEnd"
+    }
+  },
+  "defaultProject": "autointelliFrontEnd",
+  "cli": {
+    "analytics": false
+  }
 }
